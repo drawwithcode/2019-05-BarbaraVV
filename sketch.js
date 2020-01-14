@@ -21,7 +21,7 @@ function setup() {
 
 function draw() {
 
-  // color of the background
+  // background color
   background(0, 0, 153);
 
   // get the volume
